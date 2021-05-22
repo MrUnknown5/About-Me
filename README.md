@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gagan Raj
 - 👀 I’m interested in software development and possess a passion to learn AI, I fascinate the capabilities of AI in bringing the change in our lives.
-- 🌱 I’m currently learning languages like Python, C++, Html, CSS, PHP, MySql, DSA etc..
+- 🌱 I’m currently learning languages like Python, C++, Html, CSS, PHP, MySql etc..
 - 💞️ I’m looking to explore more regarding AI, ML and Data science technologies.   P.S : Cybersecurity too drives me crazy :)
 - 📫 untill next time, 
       Gagan raj,
